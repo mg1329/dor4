@@ -1,0 +1,29 @@
+body {font-family: "David CLM", "Arial", "Helvetica",
+sans-serif;color: rgb(0, 0, 58); 
+font-size: 18px; 
+background-color: #AD9985;
+background-image: url("beig133.gif");  }
+hr {color: green; background-color: green; height: 3px;}
+h1 {font-size: 26px}
+h2 {font-size: 20px}
+
+ul {list-style-type: square}
+ul ul {list-style-type: disc}
+ul ul ul {list-style-type: circle}
+ol {list-style-type: upper-roman}
+
+a:link {color: rgb(96, 0, 132)}
+a:visited {color: #525252}
+a:hover {color: #000000}
+a:active {color: #FF0000}
+
+p {text-indent: 0px; padding-left: 20px; padding-right: 20px;} 
+span.c5 { font-size: 308%; font-family: David CLM; text-shadow: 4px 4px 4px #aaa; }
+span.c4 { font-size: 256%; font-family: David CLM; text-shadow: 4px 4px 4px #aaa; }
+span.c3 { font-size: 164%; font-family: David CLM; }
+span.c2 { font-size: 132%; font-family: David CLM; }
+span.c1 { font-size: 100%; font-family: David CLM; }
+
+
+
+
